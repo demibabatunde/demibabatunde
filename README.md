@@ -7,15 +7,14 @@
   <br/>
 
 
-<h2> 👨🏾‍💻 Cybersecurity Projects & Job Sims:</h2>
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_PDGQveks8qak9yu86_1716186333182_completion_certificate.pdf"
->AIG - Shields Up: Cybersecurity Job Simulation</a>
+<h2> 👨🏾‍💻 Cybersecurity Projects & Job Sims:</h2><br/>
+- <a href="https://github.com/demibabatunde/ActiveDirectoryLab">Active Directory Lab</a>
 <br/>
-
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_PDGQveks8qak9yu86_1716170390869_completion_certificate.pdf">Tata Group - Cybersecurity Analyst Job Simulation</a>
+- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_PDGQveks8qak9yu86_1716186333182_completion_certificate.pdf">AIG - Shields Up: Cybersecurity Job Simulation</a>
 <br/>
-
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_PDGQveks8qak9yu86_1715844787853_completion_certificate.pdf">Mastercard - Cybersecurity Job Simulation</a>
+- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_PDGQveks8qak9yu86_1716170390869_completion_certificate.pdf">Tata Group - Cybersecurity Analyst Job Simulation</a>
+<br/>
+- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_PDGQveks8qak9yu86_1715844787853_completion_certificate.pdf">Mastercard - Cybersecurity Job Simulation</a>
 <br/>
 
 
@@ -42,6 +41,12 @@
 <img src="https://i.imgur.com/FGHbrv0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+[NIST Risk Management Framework for Systems & Organizations]<br />
+<img src="https://i.imgur.com/OxYFUGK.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 
