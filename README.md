@@ -11,8 +11,10 @@
 
 
 <h2 👨🏾‍💻 Certifications:</h2>
-Paid
-- [Google Cybersecurity Professional Certifcate](https://coursera.org/verify/professional-cert/ZGRTFDJQTX3C)
+Paid <br/>
+- <a href="https://coursera.org/verify/professional-cert/ZGRTFDJQTX3C">[Google Cybersecurity Professional Certifcate]</a> <br/>
+
+imgsrc:"https://imgur.com/g6AfJUg" 
 
 Free (and useful)
 - 
