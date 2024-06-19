@@ -1,6 +1,14 @@
-<h1>Hi, I'm Demi! <br/> <a href="https://www.linkedin.com/in/babademilade-demi-babatunde-14ab861b6//">Cybersecurity Professional & Technology Consultant</a>
+<h1>Hi, I'm Demi! 🇳🇬👨🏾‍💻🎧 <br/> <a href="https://www.linkedin.com/in/babademilade-demi-babatunde-14ab861b6//">Cybersecurity Professional & Technology Consultant</a><br/>
+<h2>- 💬 Ask me about...</h2>
+1. What music I'm listening to, or making! 🎸🎹
+<br/> 
+2. What my last small talking session was about 😆
+<br/> 
+3. Why I have an obsession w/ White Castle 🍔 & Mac and Cheese 🍲
+<br/>
+<br/>
 
-<h2> 📫 How to reach me: ...<h2>
+<h2> 📫 How to reach me:...<h2>
 - G📥: demi.babatunde@gmail.com
   <br/>
 - 📲: (484) 326 - 7959 {don't make me regret this 🙄}
