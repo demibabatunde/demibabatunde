@@ -1,4 +1,4 @@
-<h1>Hi, I'm Demi! 🇳🇬👨🏾‍💻🎧 <br/> <a href="https://www.linkedin.com/in/babademilade-demi-babatunde-14ab861b6//">Cybersecurity Professional & Technology Consultant</a><br/>
+<h1>Hi, I'm Demi! 🇳🇬👨🏾‍💻🎧 <br/> <a href="https://www.linkedin.com/in/babademilade-demi-babatunde-14ab861b6//">Aspiring Cybersecurity Professional & Technology Consultant</a><br/>
 <h2>- 💬 Ask me about...</h2>
 1. What music I'm listening to, or making! 🎸🎹
 <br/> 
@@ -15,7 +15,8 @@
   <br/>
 
 
-<h2> 👨🏾‍💻 Cybersecurity Projects & Job Sims:</h2><br/>
+<h2> 👨🏾‍💻 Cybersecurity Projects & Job Sims:</h2>
+<br/>
 - <a href="https://github.com/demibabatunde/ActiveDirectoryLab">Active Directory Lab</a>
 <br/>
 - <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_PDGQveks8qak9yu86_1716186333182_completion_certificate.pdf">AIG - Shields Up: Cybersecurity Job Simulation</a>
@@ -28,28 +29,34 @@
 
 <h2>👨🏾‍💻 Certifications:</h2> 
 <h3>Paid:</h3>
+<p align="center">
 <a href="https://coursera.org/verify/professional-cert/ZGRTFDJQTX3C">[Google Cybersecurity Professional Certifcate]</a> 
 <br />
+<p align="center">
 <img src="https://i.imgur.com/c1kI8hu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   
-<h3>Free (still useful)<h3><br />
+<h3>Free (still useful):<h3>
+<p align="center">
 [Qualys Vulnerability Management Detection & Response]
 <img src="https://i.imgur.com/g9Fe58F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+<p align="center">
 [Qualys PCI Compliance]<br />
 <img src="https://i.imgur.com/BVMqB1k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+<p align="center">
 [FEMA ICS100: Intro to Incident Command System]<br />
 <img src="https://i.imgur.com/FGHbrv0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
+<p align="center">
 [NIST Risk Management Framework for Systems & Organizations]<br />
 <img src="https://i.imgur.com/OxYFUGK.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
